@@ -22,8 +22,7 @@ I'm **Zorykto Mykola**, an incoming master's student in Data Science at The Univ
 - Data science tools and techniques.
 
 ### 📫 How to reach me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
+- Email: zmk36@pitt.edu
 
 ### 😄 Pronouns
 - He/Him
