@@ -35,10 +35,9 @@ I am an incoming master's student in Data Science at The University of Pittsburg
 ### Projects
 Here are a few of my projects that showcase my skills:
 
-1. **Titanic Data Analysis**:This project involves data cleaning, manipulation, and visualization using the publicly available Titanic dataset. The goal is to explore the dataset to uncover key insights about the passengers and their survival rates.
-2. **Time Series Analysis and Forecasting with Air Passenger Dataset**:This project involves performing time series analysis and forecasting on the Air Passenger dataset. The main objectives are to preprocess the data, visualize the time series, decompose the time series into its components, and build a SARIMA model to forecast future values.
-3. **Project Name 3**: Brief description of what the project does and what technologies were used.
-
+1. **Titanic Data Analysis**:This project involves data cleaning, manipulation, and visualization using the publicly available Titanic dataset. The goal is to explore the dataset to uncover key insights about the passengers and their survival rates. Programming Languages & Libraries used: Python, Pandas, Matplotlib and Seaborn.
+2. **Time Series Analysis and Forecasting with Air Passenger Dataset**:This project involves performing time series analysis and forecasting on the Air Passenger dataset. The main objectives are to preprocess the data, visualize the time series, decompose the time series into its components, and build a SARIMA model to forecast future values. Programming Languages & Libraries used: Python, Pandas, Matplotlib,Seaborn, Statsmodels.
+3. **Customer Segmentation and Recommendation System using E-Commerce Data**: This project aims to analyze an e-commerce dataset to gain insights into customer purchasing behaviors, segment customers into distinct groups based on their behaviors, and build a recommendation system to suggest products to users. The project demonstrates skills in data cleaning, exploratory data analysis, clustering, and machine learning. Programming Languages used: Python,Pandas,Matplotlib,Seaborn,Scikit-learn,Surprise.
 Feel free to explore my repositories to see more of my work!
 
 ---
