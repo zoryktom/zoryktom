@@ -34,7 +34,8 @@ I am an incoming master's student in Data Science at The University of Pittsburg
 
 ### Projects
 Here are a few of my projects that showcase my skills:
-1. [Wine Quality Prediction Project](#wine-quality-prediction-project) - This project aims to predict the quality of wine based on its chemical properties using machine learning techniques.
+1. [Wine Quality Prediction Project][![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-9cf)](https://vigilant-telegram-pjj77v9wvvv4c6gvq.github.dev/)
+- This project aims to predict the quality of wine based on its chemical properties using machine learning techniques.
 
 ---
 
