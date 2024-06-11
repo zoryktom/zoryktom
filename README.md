@@ -39,23 +39,3 @@ Here are a few of my projects that showcase my skills:
 
 [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-9cf)](https://vigilant-telegram-pjj77v9wvvv4c6gvq.github.dev/)
 
----
-
-## Wine Quality Prediction Project
-
-### Project Description
-This project aims to predict the quality of wine based on its chemical properties using machine learning techniques. The dataset used contains various attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol, along with the quality rating. By analyzing these features and training a machine learning model, we aim to develop a predictive tool that can assist in assessing the quality of wine based on its composition. This project provides an opportunity to explore data preprocessing, model training, and evaluation in the context of a real-world problem in the wine industry.
-
-### How to Run
-To run this project, simply clone the repository and run the Python script `wine_quality_prediction.py`.
-
-### Dependencies
-This project requires Python and the following libraries:
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-
-### Usage
-```bash
-python wine_quality_prediction.py
