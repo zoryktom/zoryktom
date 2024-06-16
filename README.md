@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Zorykto Mykola**, an incoming master's student in Data Science at The University of Pittsburgh. I'm passionate about data science and am actively seeking an entry-level junior role in the field.
+
 
 ### 🔭 I’m currently working on
 - Data Science Projects to build my portfolio and demonstrate my skills.
@@ -22,7 +22,7 @@ I'm **Zorykto Mykola**, an incoming master's student in Data Science at The Univ
 - Data science tools and techniques.
 
 ### 📫 How to reach me
-- Email: [zmk36@pitt.edu](mailto:zmk36@pitt.edu)
+- Email)
 
 ### 😄 Pronouns
 - He/Him
