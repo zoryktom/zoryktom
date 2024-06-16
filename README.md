@@ -1,15 +1,15 @@
+Sure, here’s the updated version:
+
 ## Hi there 👋
 
-
-
 ### 🔭 I’m currently working on
-- Data Science Projects to build my portfolio and demonstrate my skills.
-- Personal projects in Python, focusing on data analysis, machine learning, and visualization.
+- Creating projects with Python, R, Jupyter Notebook, SQL, etc.
 
 ### 🌱 I’m currently learning
 - Python
 - R
 - Jupyter Notebook
+- SQL
 
 ### 👯 I’m looking to collaborate on
 - Data science projects, especially those that involve machine learning, data visualization, and statistical analysis.
@@ -22,13 +22,15 @@
 - Data science tools and techniques.
 
 ### 📫 How to reach me
-- Email)
+- Email: zmk36@pitt.edu
 
 ### 😄 Pronouns
 - He/Him
 
 ### ⚡ Fun fact
-I am an incoming master's student in Data Science at The University of Pittsburgh, and I'm eager to find an entry-level junior role in my field. Please check out my projects that showcase my skills in Python.
+I am an incoming master's student in the Data Science program at the University of Pittsburgh. I'm a quick learner and eager to find an entry-level junior role in my field. Please check out my projects that showcase my skills in Python.
+
+Feel free to reach out if you'd like to collaborate or have any questions!
 
 ---
 
