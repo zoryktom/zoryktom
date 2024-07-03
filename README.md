@@ -1,4 +1,3 @@
-Of course! Here’s a revised version with a focus on the Wine Quality Prediction project and a more descriptive fun fact:
 
 ## Hi there 👋
 
