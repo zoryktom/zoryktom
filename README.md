@@ -29,7 +29,7 @@
 - He/Him
 
 ### ⚡ Fun fact
-I am a self-taught programmer through the Odin Project and [freeCodeCamp](https://www.freecodecamp.org). I have honed my skills in front-end web development, including HTML, CSS, and JavaScript. I am currently seeking a front-end web developer role to gain practical industry experience and apply my knowledge to impactful projects. I am also awaiting the results from my master's program in Health Informatics at the University of Pittsburgh. My ambition is to harness the power of data in healthcare to help find cures for diseases and expedite research processes. As a quick learner and passionate technologist, I am eager to contribute to a dynamic team and make a meaningful impact.
+I am a self-taught programmer through the Odin Project and [freeCodeCamp](https://www.freecodecamp.org). I have honed my skills in front-end web development, including HTML, CSS, and JavaScript. I am currently seeking a front-end web developer role to gain practical industry experience and apply my knowledge to impactful projects. I.My ambition is to harness the power of data in healthcare to help find cures for diseases and expedite research processes. As a quick learner and passionate technologist, I am eager to contribute to a dynamic team and make a meaningful impact.
 
 Feel free to reach out if you'd like to collaborate or have any questions!
 
