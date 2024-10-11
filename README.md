@@ -1,37 +1,43 @@
+Here’s the updated version with your current classes included:
+
+---
 
 ## Hi there 👋
 
-### 🔭 I’m currently working on
-- Creating projects with Python, R, Jupyter Notebook, SQL, HTML, CSS, JavaScript, etc.
+### 🔭 Currently Working On
+- Developing projects using **Python**, **R**, **SQL**, **Jupyter Notebook**, **HTML**, **CSS**, and **JavaScript**, focusing on data science applications in healthcare.
 
-### 🌱 I’m currently learning
-- Advanced Python and R
-- Jupyter Notebook for data analysis
-- SQL for database management
-- Front-end development with HTML, CSS, and JavaScript
+### 🌱 Currently Learning
+- **Advanced Python** and **R** through my coursework.
+- **SQL** for database management and querying.
+- **Front-end web development** with **HTML**, **CSS**, and **JavaScript** to enhance data presentation.
+  
+**Current Courses:**
+- **Practical Statistics & Programming Using R**: Applying statistical methods and programming skills to health data analysis.
+- **Introduction to Python for Health Informatics**: Learning Python programming with a focus on healthcare data management.
+- **Healthcare Analytics and Data Visualization**: Exploring advanced healthcare analytics and data visualization techniques.
 
-### 👯 I’m looking to collaborate on
-- Data science projects, especially those that involve machine learning, data visualization, and statistical analysis.
-- Front-end web development projects.
+### 👯 Looking to Collaborate On
+- **Data Science** projects involving **machine learning**, **statistical analysis**, and **data visualization**.
+- **Front-end development** projects related to interactive data tools and dashboards.
 
-### 🤔 I’m looking for help with
-- Gaining industry experience and finding opportunities to apply my skills in real-world scenarios.
+### 🤔 Seeking Help With
+- Gaining **industry experience** by applying my skills to real-world healthcare data science projects.
 
-### 💬 Ask me about
-- My projects and the skills I've acquired.
-- Data science tools and techniques.
-- Front-end development using HTML, CSS, and JavaScript.
+### 💬 Ask Me About
+- Data science tools and techniques, including **machine learning**, **statistical analysis**, and **data visualization**.
+- Front-end development using **React**, **Bootstrap**, and **Tailwind CSS**.
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 - Email: zmk36@pitt.edu
 
 ### 😄 Pronouns
 - He/Him
 
-### ⚡ Fun fact
-I am a self-taught programmer through the Odin Project and [freeCodeCamp](https://www.freecodecamp.org). I have honed my skills in front-end web development, including HTML, CSS, and JavaScript. I am currently seeking a front-end web developer role to gain practical industry experience and apply my knowledge to impactful projects. I.My ambition is to harness the power of data in healthcare to help find cures for diseases and expedite research processes. As a quick learner and passionate technologist, I am eager to contribute to a dynamic team and make a meaningful impact.
+### ⚡ Fun Fact
+I am a self-taught programmer and a graduate student in **health informatics** at the **University of Pittsburgh**, concentrating in **data science**. My ambition is to use data-driven insights to improve healthcare outcomes and address real-world healthcare challenges. With experience in **medical terminology** and **HIPAA training**, I am passionate about using data science to enhance research processes and patient care.
 
-Feel free to reach out if you'd like to collaborate or have any questions!
+Feel free to reach out if you're interested in collaborating or discussing data science and healthcare!
 
 ---
 
@@ -41,12 +47,6 @@ Feel free to reach out if you'd like to collaborate or have any questions!
   - **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
   - **JavaScript**: React, jQuery
   - **CSS**: Bootstrap, Tailwind CSS
+- **Data Science Expertise**: Statistical modeling, data manipulation, and visualization
+- **Machine Learning**: Predictive modeling, data mining, and natural language processing
 
-### Projects
-Here is a project that showcases my skills:
-
-1. [Wine Quality Prediction Project](https://github.com/zoryktom/winequalityproject) - This project aims to predict the quality of wine based on its chemical properties using machine learning techniques. It involves data preprocessing, feature selection, and the application of various machine learning models to achieve accurate predictions.
-
-[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-9cf)](https://vigilant-telegram-pjj77v9wvvv4c6gvq.github.dev/)
-
-Feel free to check out my [GitHub](https://github.com/zoryktom) for more projects and contributions.
