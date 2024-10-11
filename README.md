@@ -1,6 +1,3 @@
-Here’s the updated version with your current classes included:
-
----
 
 ## Hi there 👋
 
